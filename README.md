@@ -11,7 +11,7 @@ After realizing the scale of the project, I realized the problems that I was goi
 Since I was not that good of an engineer back in 2023, I did not have a good base for making a full 3D model of the printer. I was originally planning to just make a 3D model of the full printer, but halfway through doing this I just decided to design it kind of like a driven dimension in Fusion 360. It took up to *10 tries* to correctly design a model for the ... *motor mount???*
 
 >[!NOTE]
->I was not a very experienced person with Fusion 360 at this time...
+>I was not very experienced with Fusion 360 at this time...
 
 ## Software Issues
 I am by no means a software engineer. However, when it comes to things like this, I can at least try.
