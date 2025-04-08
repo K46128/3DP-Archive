@@ -27,7 +27,7 @@ I will not go into detail of what I did to configure Klipper for a custom printe
 Since this project has basically ended, I will move my focus to other things to make. (*maybe another printer??? who knows????*)
 
 > [!IMPORTANT]
->Motherboard died, Working on recovering HDD with CAD model archives.
+>Motherboard died, working on recovering HDD with CAD model archives.
 
 ## Experience
 Since it's been a while since I first created the BOM and actually built this printer (which was my first one) I believe I can do better with other projects. I have lots more experience with software and firmware, and I also understand mechanics better.
